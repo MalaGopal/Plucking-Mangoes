@@ -1,2 +1,2 @@
-# Plucking-Mangoes
-Aim the mangoes
+# p5.play-boilerplate
+Boiler plate for p5.play
